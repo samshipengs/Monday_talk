@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Missing data}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Types of Missing Data}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Why it is important}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Common ways to deal with missing data}{5}{0}{1}
+\beamer@sectionintoc {2}{Methods}{8}{0}{2}

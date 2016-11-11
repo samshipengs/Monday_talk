@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.9)  10 NOV 2016 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.9)  11 NOV 2016 09:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,19 +1002,19 @@ thkerncmss.
 )
 [3
 
-] <missing.png, id=137, 957.5775pt x 417.56pt>
+] <missing.png, id=136, 957.5775pt x 417.56pt>
 File: missing.png Graphic file (type png)
  <use missing.png>
 Package pdftex.def Info: missing.png used on input line 79.
 (pdftex.def)             Requested size: 68.45801pt x 29.8502pt.
 
-<c45.png, id=140, 1205.50375pt x 153.57375pt>
+<c45.png, id=139, 1205.50375pt x 153.57375pt>
 File: c45.png Graphic file (type png)
  <use c45.png>
 Package pdftex.def Info: c45.png used on input line 79.
 (pdftex.def)             Requested size: 205.37926pt x 26.16342pt.
 
-<bias.png, id=142, 1421.31pt x 1019.81pt>
+<bias.png, id=141, 1421.31pt x 1019.81pt>
 File: bias.png Graphic file (type png)
  <use bias.png>
 Package pdftex.def Info: bias.png used on input line 79.
@@ -1027,32 +1027,31 @@ Overfull \vbox (1.05801pt too high) detected at line 79
 
  <./missing.png> <./c45.png> <./bias.png>] [5
 
-] [6
-
 ]
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 130.
+<listwise.png, id=200, 310.15875pt x 306.14375pt>
+File: listwise.png Graphic file (type png)
+ <use listwise.png>
+Package pdftex.def Info: listwise.png used on input line 124.
+(pdftex.def)             Requested size: 171.14764pt x 168.93079pt.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 124.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 130.
+(Font)              size <5> substituted on input line 124.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 130.
+(Font)              size <5> substituted on input line 124.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 130.
+(Font)              size <5> substituted on input line 124.
 
-[7
+[6
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ <./listwise.png>] [7
 
- [8
-
-]
-[9 </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
 \tf@nav=\write6
 \openout6 = `Missing_Data.nav'.
 
@@ -1062,12 +1061,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `Missing_Data.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
-
-(./Missing_Data.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+ (./Missing_Data.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `Missing_Data.out' has not changed.
 (rerunfilecheck)             Checksum: 101017F08368EEFAF19E7041FB249642;313.
 
@@ -1075,26 +1073,28 @@ Package rerunfilecheck Info: File `Missing_Data.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  ) 
 Here is how much of TeX's memory you used:
- 19233 strings out of 494953
- 364414 string characters out of 6180977
- 432937 words of memory out of 5000000
- 22058 multiletter control sequences out of 15000+600000
- 16966 words of font info for 63 fonts, out of 8000000 for 9000
+ 19201 strings out of 494953
+ 363516 string characters out of 6180977
+ 427937 words of memory out of 5000000
+ 22028 multiletter control sequences out of 15000+600000
+ 16953 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 56i,16n,62p,413b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Missing_Data.pdf (9 pages, 633239 bytes).
+ 56i,16n,62p,413b,612s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Missing_Data.pdf (7 pages, 655038 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 305 compressed objects within 4 object streams
- 27 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 302 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 

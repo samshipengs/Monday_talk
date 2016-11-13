@@ -6,9 +6,9 @@
 \usepackage{amsmath,amsthm,amssymb,amsfonts,listings,graphicx,caption,subcaption,hyperref} % Allows including images
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
 
-%----------------------------------------------------------------------------------------
+%-----------------------------------------------------------
 %	TITLE PAGE
-%----------------------------------------------------------------------------------------
+%-----------------------------------------------------------
 
 \title[Missing Data]{Monday Group Presentation on Missing Data} % The short title appears at the bottom of every slide, the full title is only on the title page
 
@@ -48,7 +48,7 @@ Ryerson University \\ % Your institution for the title page
 supposed you want to model weight $Y$ as a function of gender $X$ and you do a survey asking for $Y$ and $X$, in the end there are some missing values(data point missing or data attribute missing), below are possible scenarios,
 \begin{itemize}
 \item{Missing completely at random(MCAR)}\\
-No particular reasons why the data is missing, such as, it can be someone dropped the survey paper, hard recognizable hand-writting, etc. (data are rarely MCAR) 
+No particular reasons why the data is missing, such as, it can be someone dropped the survey paper, hard recognizable hand-writing, etc. (data are rarely MCAR) 
 \item{Missing at random(MAR)}\\
 It can happen that one gender $X$ would less likely to disclose their weight information than the other.
 \item{Missing not at random(MNAR)}\\
@@ -83,7 +83,7 @@ all the variables included in the analysis; Machine learning models need to have
 \fontsize{11pt}{7.2}\selectfont
 \begin{frame}
 \frametitle{Common ways to deal with missing data}
-A quick summary before we introudce dealing methods, \cite{p3}\\
+A quick summary before we introduce dealing methods, \cite{p3}\\
 	\begin{itemize}
 		\item Listwise deletion (or complete case analysis)
 		\item Imputation methods
@@ -108,7 +108,7 @@ A quick summary before we introudce dealing methods, \cite{p3}\\
 \column{.5\textwidth} % Right column and width
 \textbf{Advantage}:\\
 \begin{itemize}
-\item{Easy to implement, no special computation metod requires}
+\item{Easy to implement, no special computation method requires}
 \item{It is valid if the missing data is MCAR}
 \item{If the proportion of deleted data is small, e.g. $<5\%$}
 \end{itemize}
@@ -123,7 +123,12 @@ A quick summary before we introudce dealing methods, \cite{p3}\\
 
 \end{frame}
 %------------------------------------------------
-
+\begin{frame}{Imputation}
+\textbf{Mean imputation}: Use mean value of available data to represent missing data.
+\begin{itemize}
+\item dasdas
+\end{itemize}	
+\end{frame}
 
 
 %------------------------------------------------

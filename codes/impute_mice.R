@@ -1,7 +1,7 @@
 library(mice)
 library(lattice)
 # data path
-data_path <- '/home/sam/Desktop/Monday_group/Monday_talk/data/'
+data_path <- '/home/sam/Desktop/Monday_talk/data/'
 # read data
 train_df <- read.csv(paste(data_path, 'train_missed.csv', sep=''), fill = TRUE, na.strings=c(""," ","NA"))
 
